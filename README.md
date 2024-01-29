@@ -69,8 +69,11 @@ In this course, you will be learning about the content covered in the following 
 
 Each task will be aligned to one or more course outcomes. You will receive a separate score for each outcome indicating your progress toward mastery of that particular outcome.  Your final score for each outcome will be the weighted average of all scores aligned to that particular outcome.  Your final grade for the course will be determined using a weighted average of your final outcome scores.
 
-**<ins>Note:</ins>** You are NOT expected to demonstrate perfection in this course.  You ARE expected to demonstrate **<ins>GROWTH!</ins>**  As such, you will be given many opportunities to reflect on, and revise your work based on the feedback you receive. It is expected that you will take advantage of this opportunity by engaging in the feedback, reflection, revision cycle.  ***Students who consistently engage in this process often see significant improvement in their grades.***
+**<ins>Note:</ins>** You are NOT expected to demonstrate perfection in this course.  You ARE expected to demonstrate **<ins>GROWTH!</ins>**  As such, you will be given many opportunities to reflect on, and revise your work based on the feedback you receive. It is expected that you will take advantage of this opportunity by engaging in the feedback, reflection, revision cycle.  ***Students who consistently engage in this process often see significant improvement in their grades.***<br><br>
 
-
+**UNITS OF STUDY:**
+|Unit|Tentative Dates|Key Topics and Concepts<br>&<br>datacamp course alignment|
+|---|---|---|
+|**Unit 0:**<br>Introduction to Python Data Libraries(numpy,Matplotlib, and pandas)|Tuesday, 01.30.24 - Friday, 02.16.24 |**<ins>Key Topics and Concepts</ins>:**<br><br>**numpy:** numpy Arrays, Two Dimensional numpy Arrays, Operations on numpy Arrays, and Basic Statistics with numpy Arrays.<br><br>**Matplotlib:** Line Plots, Scatter Plots, Histograms, Customization, and Interpretation.<br><br>**pandas:** Dictionaries, Data Frames, Operations with Data Frames, Accessing Rows and Columns in Data Frames, and Iteration with Data Frames<br><br> **<ins>datacamp course alignment</ins>:** <br> 1-Introduction to Python<br> 2-Intermediate Python<br> 3-PROJECT: Investigating Netflix Movies and Guest Stars in the Office.|
  
 
